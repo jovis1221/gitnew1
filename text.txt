@@ -1,4 +1,12 @@
 dgterteryt ryryyrydgdg
 dgdgdgdgdg
 git production modified
+<<<<<<< HEAD
 To push the current branch and set the remote as upstream, use
+=======
+git production modified again
+fr erer eere er
+g
+g
+g
+>>>>>>> branchproduction
